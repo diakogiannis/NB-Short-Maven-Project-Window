@@ -1,0 +1,22 @@
+#Tue Aug 09 11:26:54 EEST 2016
+s5=jar\:file\:/C\:/development/jdk8/jre/lib/jfr.jar\!/
+s4=jar\:file\:/C\:/development/jdk8/jre/lib/ext/access-bridge-64.jar\!/
+s3=file\:/C\:/development/jdk8/jre/classes/
+s19=jar\:file\:/C\:/development/jdk8/jre/lib/resources.jar\!/
+s2=jar\:file\:/C\:/development/jdk8/jre/lib/ext/jaccess.jar\!/
+s18=jar\:file\:/C\:/development/jdk8/jre/lib/ext/zipfs.jar\!/
+s1=jar\:file\:/C\:/development/jdk8/jre/lib/jsse.jar\!/
+s17=jar\:file\:/C\:/development/jdk8/jre/lib/ext/jfxrt.jar\!/
+s16=jar\:file\:/C\:/development/jdk8/jre/lib/ext/cldrdata.jar\!/
+s15=jar\:file\:/C\:/development/jdk8/jre/lib/charsets.jar\!/
+s14=jar\:file\:/C\:/development/jdk8/jre/lib/ext/dnsns.jar\!/
+s13=jar\:file\:/C\:/development/jdk8/jre/lib/ext/sunmscapi.jar\!/
+s12=file\:/C\:/development/workspaces/netbeans/AirbookB2BManager/target/classes/
+s11=jar\:file\:/C\:/development/jdk8/jre/lib/ext/sunec.jar\!/
+s10=jar\:file\:/C\:/development/jdk8/jre/lib/ext/sunjce_provider.jar\!/
+s21=jar\:file\:/C\:/development/jdk8/jre/lib/ext/nashorn.jar\!/
+s20=jar\:file\:/C\:/development/jdk8/jre/lib/ext/sunpkcs11.jar\!/
+s9=jar\:file\:/C\:/development/jdk8/jre/lib/ext/localedata.jar\!/
+s8=jar\:file\:/C\:/development/jdk8/jre/lib/jce.jar\!/
+s7=jar\:file\:/C\:/development/jdk8/jre/lib/rt.jar\!/
+s6=jar\:file\:/C\:/development/jdk8/jre/lib/sunrsasign.jar\!/

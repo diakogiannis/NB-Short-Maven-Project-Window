@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="gr.jcrete.diakogiannis_alexius.shormavenprojectwindow">
-    <module_version install_time="1470729342549" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1470731535222" last="true" origin="installer" specification_version="1.0">
         <file crc="1774594659" name="config/Modules/gr-jcrete-diakogiannis_alexius-shormavenprojectwindow.xml"/>
-        <file crc="3772274257" name="modules/gr-jcrete-diakogiannis_alexius-shormavenprojectwindow.jar"/>
+        <file crc="360208475" name="modules/gr-jcrete-diakogiannis_alexius-shormavenprojectwindow.jar"/>
     </module_version>
 </module>

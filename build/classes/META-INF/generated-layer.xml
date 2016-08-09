@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="gr-jcrete-diakogiannis_alexius-shormavenprojectwindow-OpenShortProjects.instance">
+                <!--gr.jcrete.diakogiannis_alexius.shormavenprojectwindow.OpenShortProjects-->
+                <attr
+                    bundlevalue="gr.jcrete.diakogiannis_alexius.shormavenprojectwindow.Bundle#CTL_OpenShortProjects" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.openide.nodes.Node"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="gr.jcrete.diakogiannis_alexius.shormavenprojectwindow.OpenShortProjects"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="gr-jcrete-diakogiannis_alexius-shormavenprojectwindow-OpenShortProjects.shadow">
+                <!--gr.jcrete.diakogiannis_alexius.shormavenprojectwindow.OpenShortProjects-->
+                <attr name="originalFile" stringvalue="Actions/Window/gr-jcrete-diakogiannis_alexius-shormavenprojectwindow-OpenShortProjects.instance"/>
+                <attr intvalue="0" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
