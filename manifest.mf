@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: gr.jcrete.diakogiannis_alexius.shormavenprojectwindow
+OpenIDE-Module-Localizing-Bundle: gr/jcrete/diakogiannis_alexius/shormavenprojectwindow/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
